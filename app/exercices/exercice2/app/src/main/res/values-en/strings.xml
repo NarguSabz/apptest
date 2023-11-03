@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">exercice2</string>
+    <string name="boutton_commencer">Start</string>
+    <string name="bienvenue">Welcome to my app</string>
+</resources>

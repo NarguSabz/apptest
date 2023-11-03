@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rouleur de des</string>
+    <string name="roll">Rouler</string>
+    <string name="compteurText">Points</string>
+    <string name="item1">Nouvelle partie</string>
+    <string name="item2">À propos</string>
+</resources>
